@@ -1,2 +1,2 @@
 # flutter_crud
-Projeto simples com todas as oprações do CRUD e com o uso de Provider.
+Trabalhado com Flutter numa lista simples e com todas as oprações do CRUD sem deixar de explorar alguns conceitos de Provider.
